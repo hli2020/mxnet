@@ -1,3 +1,6 @@
+example/rcnn/data_coco/
+example/rcnn/rcnn/pycocotools/
+
 # Compiled Object files
 *.slo
 *.lo
